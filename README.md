@@ -31,17 +31,25 @@
   </tr>
   <tr>
     <td align="center" width="50%">
+      <!-- Top Languages -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realKeehan&layout=compact&langs_count=10&hide_border=true&bg_color=111111&title_color=a800ff&text_color=b583fc" alt="Top Languages" width="100%" />
+    </td>
+    <td align="center" width="50%">
       <!-- Trophies -->
       <img src="https://github-profile-trophy.vercel.app/?username=realKeehan&theme=monokai&no-frame=true&no-bg=true&column=3&margin-w=8&margin-h=8&title=Commit,Stars,Followers,Issues,PullRequest,Repositories" alt="Trophies" width="100%" />
     </td>
-    <td align="center" width="50%">
-      <!-- Contribution graph (scaled) -->
-      <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=realKeehan&bg_color=111111&color=b583fc&line=a800ff&point=ef00fe&area=true&hide_border=true" alt="Contribution graph" width="100%" />
-      </a>
-    </td>
   </tr>
 </table>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=realKeehan&bg_color=111111&color=b583fc&line=a800ff&point=ef00fe&area=true&hide_border=true" alt="Contribution graph" width="75%" />
+  </a>
+</p>
 
 <!-- Contribution snake (dark palette) -->
 ![snake gif](https://raw.githubusercontent.com/realKeehan/realKeehan/output/github-contribution-grid-snake-dark.svg?palette=github-dark&cachebust=1)
@@ -50,9 +58,6 @@
 
 ## ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com//realKeehan/PolyForge/pull/2) in [realKeehan/PolyForge](https://github.com//realKeehan/PolyForge)
-2. 🎉 Merged PR [#1](https://github.com//realKeehan/PolyForge/pull/1) in [realKeehan/PolyForge](https://github.com//realKeehan/PolyForge)
-3. 💪 Opened PR [#1](https://github.com//realKeehan/PolyForge/pull/1) in [realKeehan/PolyForge](https://github.com//realKeehan/PolyForge)
 <!--END_SECTION:activity-->
 
 ---
