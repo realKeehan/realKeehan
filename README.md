@@ -70,26 +70,14 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=realKeehan&theme=dark&background=111111&ring=a800ff&fire=ef00fe&currStreakLabel=b583fc&hide_border=true" width="45%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=realKeehan&theme=onedark&no-frame=true&column=3" width="45%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=realKeehan&theme=radical&no-frame=true&title=Commit,Stars,Followers,Issues,PullRequest,Repositories" width="45%" />
 </p>
 
 ---
 
-## 🎧 Music Activity  
+## 🎧 Music — Now Playing (Spotify)
 
-### 🔊 Spotify Now Playing
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=isolo_17-&cover_image=false&theme=default&show_offline=true&background_color=111111&interchange=true&bar_color=a800ff&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=isolo_17-&redirect=true)
-
-### 🎶 Last.fm Activity  
-[![Last.FM Last Played Song](https://img.shields.io/endpoint?color=a800ff&url=https://lastfm-last-played.biancarosa.com.br/realKeehan/latest-song?format=shields.io)](https://www.last.fm/user/realKeehan)
-
-<details>
-  <summary><b>Click for Charts</b></summary>
-  <iframe src="https://lastfmstats.com/user/realkeehan/charts" style="border: none;" width="100%" height="500"></iframe>
-</details>
-
-### 📈 Stats.fm
-(Manual link until API widget exists) → [Stats.fm Profile](https://stats.fm/keehan)
 
 ---
 
@@ -100,7 +88,6 @@
   <a href="https://youtube.com/Keehan"><img src="https://img.shields.io/badge/YouTube-Keehan-ef00fe?style=for-the-badge&logo=youtube&logoColor=white&labelColor=111111"></a>
   <a href="https://twitch.tv/realKeehan"><img src="https://img.shields.io/badge/Twitch-realKeehan-b583fc?style=for-the-badge&logo=twitch&logoColor=white&labelColor=111111"></a>
   <a href="https://codepen.io/Keehan"><img src="https://img.shields.io/badge/CodePen-Experiments-a800ff?style=for-the-badge&logo=codepen&logoColor=ef00fe&labelColor=111111"></a>
-  <a href="https://last.fm/user/realKeehan"><img src="https://img.shields.io/badge/Last.fm-Scrobbles-ef00fe?style=for-the-badge&logo=last.fm&logoColor=white&labelColor=111111"></a>
 </p>  
 
 ---
