@@ -47,7 +47,7 @@
 
 <p align="left">
   <a href="https://github.com/realKeehan/PolyForge"><img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=realKeehan&repo=PolyForge&hide_border=true&bg_color=111111&title_color=a800ff&text_color=b583fc&icon_color=ef00fe" alt="PolyForge"></a>
-  <a href="https://github.com/realKeehan/realKeehan"><img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=realKeehan&repo=realKeehan&hide_border=true&bg_color=111111&title_color=a800ff&text_color=b583fc&icon_color=ef00fe" alt="realKeehan"></a>
+  <a href="https://github.com/realKeehan/SlimeTools"><img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=realKeehan&repo=SlimeTools&hide_border=true&bg_color=111111&title_color=a800ff&text_color=b583fc&icon_color=ef00fe" alt="realKeehan"></a>
 </p>
 
 <p align="left">
