@@ -27,14 +27,18 @@
   <img src="https://streak-stats.demolab.com/?user=realKeehan&theme=dark&background=111111&ring=a800ff&fire=ef00fe&currStreakLabel=b583fc&hide_border=true" height="180" />
 </p>
 
-<!-- Activity graph -->
 <p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=realKeehan&bg_color=111111&color=b583fc&line=a800ff&point=ef00fe&area=true&hide_border=true" alt="Contribution graph" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=realKeehan&theme=radical&no-frame=true&column=6&title=Commit,Stars,Followers,Issues,PullRequest,Repositories" />
 </p>
 
-<!-- Recent activity (auto-updates via GitHub Action) -->
+<!-- Activity graph -->
+[![Keehan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=realKeehan&bg_color=111111&color=b583fc&line=a800ff&point=ef00fe&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<!-- Contribution snake -->
+![snake gif](https://github.com/realKeehan/realKeehan/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ## ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
@@ -44,6 +48,29 @@
 ## 🎧 Music — Now Playing (Spotify)
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=isolo_17-&cover_image=false&theme=default&show_offline=true&background_color=111111&interchange=true&bar_color=a800ff&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=isolo_17-&redirect=true)
+
+---
+
+## 🟣 Discord Presence  
+
+<p align="center">
+  <a href="https://discord.com/users/325386597988040724">
+    <img src="https://lanyard.cnrad.dev/api/325386597988040724?theme=dark&bg=111111&animated=true&hideDiscrim=true&borderRadius=8px&idleMessage=Idle" alt="Keehan's Discord Presence"/>
+  </a>
+</p>
+
+---
+
+## 📌 Pinned Gists / Projects  
+
+<p align="left">
+  <a href="https://github.com/realKeehan/KUMI"><img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=realKeehan&repo=KUMI&hide_border=true&bg_color=111111&title_color=a800ff&text_color=b583fc&icon_color=ef00fe" alt="KUMI"></a>
+  <a href="https://github.com/realKeehan/TwitchCon-Plugins"><img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=realKeehan&repo=TwitchCon-Plugins&hide_border=true&bg_color=111111&title_color=a800ff&text_color=b583fc&icon_color=ef00fe" alt="TwitchCon Plugins"></a>
+</p>
+
+<p align="left">
+  <a href="https://gist.github.com/realKeehan"><img src="https://img.shields.io/badge/Gists-See%20All-111111?style=for-the-badge&logo=github&logoColor=b583fc" /></a>
+</p>
 
 ---
 
@@ -89,6 +116,14 @@
 - ✍️ **Scanlation & Storytelling** → Bringing works to life across languages  
 
 </details>
+
+---
+
+## 🛠️ Tech Stack  
+
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=ef00fe)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=a800ff)
+![PowerShell](https://img.shields.io/badge/PowerShell-111111?style=for-the-badge&logo=powershell&logoColor=b583fc)
 
 ---
 
