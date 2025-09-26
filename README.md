@@ -16,6 +16,29 @@
 
 ---
 
+## 📊 Metrics Dashboard  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=realKeehan&show_icons=true&count_private=true&hide_border=true&bg_color=111111&title_color=a800ff&icon_color=ef00fe&text_color=b583fc" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realKeehan&layout=compact&langs_count=10&hide_border=true&bg_color=111111&title_color=a800ff&text_color=b583fc" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=realKeehan&theme=dark&background=111111&ring=a800ff&fire=ef00fe&currStreakLabel=b583fc&hide_border=true" height="180" />
+</p>  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=realKeehan&theme=radical&no-frame=true&column=6&title=Commit,Stars,Followers,Issues,PullRequest,Repositories" />
+</p>  
+
+---
+
+## 🎧 Music — Now Playing (Spotify)
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=isolo_17-&cover_image=false&theme=default&show_offline=true&background_color=111111&interchange=true&bar_color=a800ff&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=isolo_17-&redirect=true)
+
+---
+
 ## 👤 About Me
 <details>
   <summary><b>Click to expand</b></summary>
@@ -58,29 +81,6 @@
 - ✍️ **Scanlation & Storytelling** → Bringing works to life across languages  
 
 </details>
-
----
-
-## 📊 Metrics Dashboard  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=realKeehan&show_icons=true&count_private=true&hide_border=true&bg_color=111111&title_color=a800ff&icon_color=ef00fe&text_color=b583fc" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realKeehan&layout=compact&langs_count=10&hide_border=true&bg_color=111111&title_color=a800ff&text_color=b583fc" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=realKeehan&theme=dark&background=111111&ring=a800ff&fire=ef00fe&currStreakLabel=b583fc&hide_border=true" height="180" />
-</p>  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=realKeehan&theme=radical&no-frame=true&column=6&title=Commit,Stars,Followers,Issues,PullRequest,Repositories" />
-</p>  
-
----
-
-## 🎧 Music — Now Playing (Spotify)
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=isolo_17-&cover_image=false&theme=default&show_offline=true&background_color=111111&interchange=true&bar_color=a800ff&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=isolo_17-&redirect=true)
 
 ---
 
