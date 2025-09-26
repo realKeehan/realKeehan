@@ -16,31 +16,35 @@
 
 ---
 
-## 📊 Metrics Dashboard  
+## 📊 Metrics Dashboard (2×2)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=realKeehan&show_icons=true&count_private=true&hide_border=true&bg_color=111111&title_color=a800ff&icon_color=ef00fe&text_color=b583fc" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realKeehan&layout=compact&langs_count=10&hide_border=true&bg_color=111111&title_color=a800ff&text_color=b583fc" width="45%" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <!-- Stats -->
+      <img src="https://github-readme-stats.vercel.app/api?username=realKeehan&show_icons=true&count_private=true&hide_border=true&bg_color=111111&title_color=a800ff&icon_color=ef00fe&text_color=b583fc" alt="GitHub stats" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <!-- Streak -->
+      <img src="https://streak-stats.demolab.com/?user=realKeehan&theme=dark&background=111111&ring=a800ff&fire=ef00fe&currStreakLabel=b583fc&hide_border=true" alt="GitHub streak" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <!-- Trophies -->
+      <img src="https://github-profile-trophy.vercel.app/?username=realKeehan&theme=monokai&no-frame=true&no-bg=true&column=3&margin-w=8&margin-h=8&title=Commit,Stars,Followers,Issues,PullRequest,Repositories" alt="Trophies" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <!-- Contribution graph (scaled) -->
+      <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=realKeehan&bg_color=111111&color=b583fc&line=a800ff&point=ef00fe&area=true&hide_border=true" alt="Contribution graph" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=realKeehan&theme=dark&background=111111&ring=a800ff&fire=ef00fe&currStreakLabel=b583fc&hide_border=true" height="180" />
-</p>
-
-<!-- Trophies (Monokai theme, no bg/frame) -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=realKeehan&theme=monokai&no-frame=true&no-bg=true&column=6&margin-w=8&margin-h=8&title=Commit,Stars,Followers,Issues,PullRequest,Repositories" />
-</p>
-
-<!-- Activity graph (smaller) -->
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=realKeehan&bg_color=111111&color=b583fc&line=a800ff&point=ef00fe&area=true&hide_border=true" alt="Contribution graph" width="75%" />
-  </a>
-</p>
-
-<!-- Contribution snake (from output branch; cache-busted) -->
-![snake gif](https://raw.githubusercontent.com/realKeehan/realKeehan/output/github-contribution-grid-snake.svg?cachebust=1)
+<!-- Contribution snake (dark palette) -->
+![snake gif](https://raw.githubusercontent.com/realKeehan/realKeehan/output/github-contribution-grid-snake-dark.svg?palette=github-dark&cachebust=1)
 
 ---
 
@@ -68,16 +72,6 @@
     </td>
   </tr>
 </table>
-
----
-
-## 🟣 Discord Presence  
-
-<p align="center">
-  <a href="https://discord.com/users/325386597988040724">
-    <img src="https://lanyard.cnrad.dev/api/325386597988040724?theme=dark&bg=111111&animated=true&hideDiscrim=true&borderRadius=8px&idleMessage=Idle" alt="Keehan's Discord Presence"/>
-  </a>
-</p>
 
 ---
 
