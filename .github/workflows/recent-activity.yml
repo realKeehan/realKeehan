@@ -1,3 +1,4 @@
+# .github/workflows/recent-activity.yml
 name: Update README with recent activity
 
 on:
@@ -12,10 +13,13 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
       - name: Update activity section
         uses: jamesgeorge007/github-activity-readme@v0.3.0
         with:
-          COMMIT_MSG: "chore: update recent GitHub activity"
           GH_USERNAME: realKeehan
+          COMMIT_MSG: "chore: update recent GitHub activity"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
