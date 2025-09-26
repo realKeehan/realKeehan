@@ -1,8 +1,9 @@
+# .github/workflows/recent-activity.yml
 name: Update README with recent activity
 
 on:
   schedule:
-    - cron: "*/30 * * * *"  # runs every 30 minutes
+    - cron: "*/30 * * * *"   # every 30 minutes
   workflow_dispatch:
 
 permissions:
