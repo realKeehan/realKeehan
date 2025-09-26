@@ -1,25 +1,20 @@
 name: Update README with recent activity
+
 on:
   schedule:
-    - cron: "*/30 * * * *"   # every 30 minutes
+    - cron: "*/30 * * * *"  # runs every 30 minutes
   workflow_dispatch:
+
 permissions:
   contents: write
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: JamesIves/github-pages-deploy-action@v4 # dummy to speed up cache (optional)
-        if: ${{ false }} # no-op, safe to remove
-      - uses: actions/setup-node@v4
-        with:
-          node-version: "20"
-      - name: Update activity
-        uses: readme-typing-svg/keepalive-workflow@v1 # keep GH Actions warm (optional)
-        if: ${{ false }} # no-op, safe to remove
-      - name: Generate activity
+      - name: Update activity section
         uses: jamesgeorge007/github-activity-readme@v0.3.0
         with:
-          COMMIT_MSG: "chore: update recent activity"
+          COMMIT_MSG: "chore: update recent GitHub activity"
           MAX_LINES: 5
