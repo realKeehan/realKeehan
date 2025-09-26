@@ -9,11 +9,14 @@ I explore **programming, music, mechatronics, media, art, and experimentation** 
 
 - 🛠 **Engineer / Programmer / Developer** → From Minecraft modpack installers to automation scripts  
 - 🎨 **Artist / Designer** → Retro-futurism, cyberpunk UI, vaporwave textures  
-- 🎶 **Musician** → Synthwave, Lo-Fi, experimental soundscapes with Strudel & TidalCycles  
+- 🎶 **Musician** → Bass, guitar, synthwave & lo-fi experiments  
 - 🤖 **Mechatronics & Maker** → Hardware tinkering, mechanical + digital fusion  
 - 🎥 **Media & Scanlation** → Editing, translations, creative storytelling  
 - 🧪 **Experimental Coder** → CodePen projects, Three.js tunnels, 4D Tesseracts, slime simulations  
 - 🔍 **QA Tester & Debugger** → Breaking things just to build them better  
+- 🌀 **Emerging Tech Explorer** → Visual processing, LLMs, TouchDesigner, pointclouds  
+- 📡 **Analog & Visual Experiments** → Oscilloscope art, Pepper’s Ghost holograms  
+- 🚗 **Tinkerer** → Learning and planning projects on my car  
 
 ---
 
@@ -21,7 +24,7 @@ I explore **programming, music, mechatronics, media, art, and experimentation** 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=realKeehan&show_icons=true&count_private=true&hide_border=true&bg_color=111111&title_color=a800ff&icon_color=ef00fe&text_color=b583fc" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realKeehan&layout=compact&hide_border=true&bg_color=111111&title_color=a800ff&text_color=b583fc" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realKeehan&layout=compact&langs_count=10&hide_border=true&bg_color=111111&title_color=a800ff&text_color=b583fc" height="180" />
 </p>  
 
 ---
@@ -35,19 +38,6 @@ I explore **programming, music, mechatronics, media, art, and experimentation** 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=realKeehan&theme=radical&no-frame=true&column=6&title=Commit,Stars,Followers,Issues,PullRequest,Repositories" />
 </p>  
-
----
-
-## 🎨 Aesthetic  
-
-> **Themes I live by:**  
-> 🖤 **Carbon** shadows • 💜 **Purple** glow • 🌸 **Fuchsia** sparks • ✨ **Lavender** haze  
-
-I design my tools, scripts, and UI with a **retro-futurist + cyberpunk** aesthetic. Think:  
-- 🌀 **Three.js Tunnels**  
-- 🌐 **Tesseract 4D animations**  
-- 🎶 **Audio-reactive visuals**  
-- ⚙️ **Steampunk Lo-Fi vibes**  
 
 ---
 
@@ -72,7 +62,6 @@ I design my tools, scripts, and UI with a **retro-futurist + cyberpunk** aesthet
 
 ### 📚 Media & Community  
 - ✍️ **Scanlation & Storytelling** → Bringing works to life across languages  
-- 🏫 **Educational Tools & Workshops** → Sharing coding + media skills with students  
 
 ---
 
@@ -80,9 +69,9 @@ I design my tools, scripts, and UI with a **retro-futurist + cyberpunk** aesthet
 
 <p align="center">
   <a href="https://keehan.co"><img src="https://img.shields.io/badge/Website-Keehan.co-a800ff?style=for-the-badge&logo=google-chrome&logoColor=ef00fe&labelColor=111111"></a>
-  <a href="https://www.youtube.com/@Keehan"><img src="https://img.shields.io/badge/YouTube-Keehan-ef00fe?style=for-the-badge&logo=youtube&logoColor=white&labelColor=111111"></a>
-  <a href="https://twitch.tv/Keehan"><img src="https://img.shields.io/badge/Twitch-Keehan-b583fc?style=for-the-badge&logo=twitch&logoColor=white&labelColor=111111"></a>
-  <a href="https://codepen.io/realKeehan"><img src="https://img.shields.io/badge/CodePen-Experiments-a800ff?style=for-the-badge&logo=codepen&logoColor=ef00fe&labelColor=111111"></a>
+  <a href="https://youtube.com/Keehan"><img src="https://img.shields.io/badge/YouTube-Keehan-ef00fe?style=for-the-badge&logo=youtube&logoColor=white&labelColor=111111"></a>
+  <a href="https://twitch.tv/realKeehan"><img src="https://img.shields.io/badge/Twitch-realKeehan-b583fc?style=for-the-badge&logo=twitch&logoColor=white&labelColor=111111"></a>
+  <a href="https://codepen.io/Keehan"><img src="https://img.shields.io/badge/CodePen-Experiments-a800ff?style=for-the-badge&logo=codepen&logoColor=ef00fe&labelColor=111111"></a>
 </p>  
 
 ---
