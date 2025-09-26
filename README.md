@@ -69,9 +69,12 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=realKeehan&theme=dark&background=111111&ring=a800ff&fire=ef00fe&currStreakLabel=b583fc&hide_border=true" width="45%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=realKeehan&theme=radical&no-frame=true&title=Commit,Stars,Followers,Issues,PullRequest,Repositories" width="45%" />
-</p>
+  <img src="https://streak-stats.demolab.com/?user=realKeehan&theme=dark&background=111111&ring=a800ff&fire=ef00fe&currStreakLabel=b583fc&hide_border=true" height="180" />
+</p>  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=realKeehan&theme=radical&no-frame=true&column=6&title=Commit,Stars,Followers,Issues,PullRequest,Repositories" />
+</p>  
 
 ---
 
