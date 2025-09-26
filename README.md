@@ -18,7 +18,18 @@ I explore **programming, music, mechatronics, media, art, and experimentation** 
 
 ---
 
-## 👤 About Me  
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=realKeehan&show_icons=true&count_private=true&hide_border=true&bg_color=111111&title_color=a800ff&icon_color=ef00fe&text_color=b583fc" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realKeehan&layout=compact&langs_count=10&hide_border=true&bg_color=111111&title_color=a800ff&text_color=b583fc" height="180" />
+</p>  
+
+---
+
+## 👤 About Me
+<details>
+  <summary><b>Click to expand</b></summary>
 
 - 🛠 **Engineer / Programmer / Developer** → From Minecraft modpack installers to automation scripts  
 - 🎨 **Artist / Designer** → Retro-futurism, cyberpunk UI, vaporwave textures  
@@ -31,30 +42,13 @@ I explore **programming, music, mechatronics, media, art, and experimentation** 
 - 📡 **Analog & Visual Experiments** → Oscilloscope art, Pepper’s Ghost holograms  
 - 🚗 **Tinkerer** → Learning and planning projects on my car  
 
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=realKeehan&show_icons=true&count_private=true&hide_border=true&bg_color=111111&title_color=a800ff&icon_color=ef00fe&text_color=b583fc" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realKeehan&layout=compact&langs_count=10&hide_border=true&bg_color=111111&title_color=a800ff&text_color=b583fc" height="180" />
-</p>  
+</details>
 
 ---
 
-## 🔥 Streaks & Trophies  
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=realKeehan&theme=dark&background=111111&ring=a800ff&fire=ef00fe&currStreakLabel=b583fc&hide_border=true" height="180" />
-</p>  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=realKeehan&theme=radical&no-frame=true&column=6&title=Commit,Stars,Followers,Issues,PullRequest,Repositories" />
-</p>  
-
----
-
-## 🛠️ Projects  
+## 🛠️ Projects
+<details>
+  <summary><b>Click to expand</b></summary>
 
 ### 🖥️ Development & Tools  
 - 🕹 **Keehan’s Universal Modpack Installer (KUMI)** → Simplifying modded Minecraft setups  
@@ -75,6 +69,20 @@ I explore **programming, music, mechatronics, media, art, and experimentation** 
 
 ### 📚 Media & Community  
 - ✍️ **Scanlation & Storytelling** → Bringing works to life across languages  
+
+</details>
+
+---
+
+## 🔥 Streaks & Trophies  
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=realKeehan&theme=dark&background=111111&ring=a800ff&fire=ef00fe&currStreakLabel=b583fc&hide_border=true" height="180" />
+</p>  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=realKeehan&theme=radical&no-frame=true&column=6&title=Commit,Stars,Followers,Issues,PullRequest,Repositories" />
+</p>  
 
 ---
 
