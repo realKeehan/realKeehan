@@ -27,15 +27,20 @@
   <img src="https://streak-stats.demolab.com/?user=realKeehan&theme=dark&background=111111&ring=a800ff&fire=ef00fe&currStreakLabel=b583fc&hide_border=true" height="180" />
 </p>
 
+<!-- Trophies (Monokai theme, no bg/frame) -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=realKeehan&theme=radical&no-frame=true&column=6&title=Commit,Stars,Followers,Issues,PullRequest,Repositories" />
+  <img src="https://github-profile-trophy.vercel.app/?username=realKeehan&theme=monokai&no-frame=true&no-bg=true&column=6&margin-w=8&margin-h=8&title=Commit,Stars,Followers,Issues,PullRequest,Repositories" />
 </p>
 
-<!-- Activity graph -->
-[![Keehan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=realKeehan&bg_color=111111&color=b583fc&line=a800ff&point=ef00fe&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- Activity graph (smaller) -->
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=realKeehan&bg_color=111111&color=b583fc&line=a800ff&point=ef00fe&area=true&hide_border=true" alt="Contribution graph" width="75%" />
+  </a>
+</p>
 
-<!-- Contribution snake -->
-![snake gif](https://github.com/realKeehan/realKeehan/blob/output/github-contribution-grid-snake.svg)
+<!-- Contribution snake (from output branch) -->
+![snake gif](https://raw.githubusercontent.com/realKeehan/realKeehan/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -48,6 +53,9 @@
 ## 🎧 Music — Now Playing (Spotify)
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=isolo_17-&cover_image=false&theme=default&show_offline=true&background_color=111111&interchange=true&bar_color=a800ff&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=isolo_17-&redirect=true)
+
+<!-- Last.fm widget -->
+[![Last.fm](https://lastfm-recently-played.vercel.app/api?user=realKeehan&count=5&bg_color=111111&title_color=a800ff&main_color=ef00fe)](https://www.last.fm/user/realKeehan)
 
 ---
 
@@ -63,9 +71,10 @@
 
 ## 📌 Pinned Gists / Projects  
 
+<!-- Replace <REPO1>, <REPO2> with real repo names (case-sensitive) -->
 <p align="left">
-  <a href="https://github.com/realKeehan/KUMI"><img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=realKeehan&repo=KUMI&hide_border=true&bg_color=111111&title_color=a800ff&text_color=b583fc&icon_color=ef00fe" alt="KUMI"></a>
-  <a href="https://github.com/realKeehan/TwitchCon-Plugins"><img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=realKeehan&repo=TwitchCon-Plugins&hide_border=true&bg_color=111111&title_color=a800ff&text_color=b583fc&icon_color=ef00fe" alt="TwitchCon Plugins"></a>
+  <a href="https://github.com/realKeehan/PolyForge"><img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=realKeehan&repo=<REPO1>&hide_border=true&bg_color=111111&title_color=a800ff&text_color=b583fc&icon_color=ef00fe" alt="<REPO1>"></a>
+  <a href="https://github.com/realKeehan/realKeehan"><img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=realKeehan&repo=<REPO2>&hide_border=true&bg_color=111111&title_color=a800ff&text_color=b583fc&icon_color=ef00fe" alt="<REPO2>"></a>
 </p>
 
 <p align="left">
