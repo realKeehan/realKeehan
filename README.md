@@ -22,21 +22,21 @@
   <tr>
     <td align="center" width="50%">
       <!-- Stats -->
-      <img src="https://github-readme-stats.vercel.app/api?username=realKeehan&show_icons=true&count_private=true&hide_border=true&bg_color=111111&title_color=a800ff&icon_color=ef00fe&text_color=b583fc" alt="GitHub stats" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=realKeehan&show_icons=true&count_private=true&hide_border=true&bg_color=111111&title_color=a800ff&icon_color=ef00fe&text_color=b583fc&cache_bust=1" alt="GitHub stats" width="100%" />
     </td>
     <td align="center" width="50%">
       <!-- Streak -->
-      <img src="https://streak-stats.demolab.com/?user=realKeehan&theme=dark&background=111111&ring=a800ff&fire=ef00fe&currStreakLabel=b583fc&hide_border=true" alt="GitHub streak" width="100%" />
+      <img src="https://streak-stats.demolab.com/?user=realKeehan&theme=dark&background=111111&ring=a800ff&fire=ef00fe&currStreakLabel=b583fc&hide_border=true&cache_bust=1" alt="GitHub streak" width="100%" />
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <!-- Top Languages -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realKeehan&layout=compact&langs_count=10&hide_border=true&bg_color=111111&title_color=a800ff&text_color=b583fc" alt="Top Languages" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realKeehan&layout=compact&langs_count=10&hide_border=true&bg_color=111111&title_color=a800ff&text_color=b583fc&cache_bust=1" alt="Top Languages" width="100%" />
     </td>
     <td align="center" width="50%">
       <!-- Trophies -->
-      <img src="https://github-profile-trophy.vercel.app/?username=realKeehan&theme=monokai&no-frame=true&no-bg=true&column=3&margin-w=8&margin-h=8&title=Commit,Stars,Followers,Issues,PullRequest,Repositories" alt="Trophies" width="100%" />
+      <img src="https://github-profile-trophy.vercel.app/?username=realKeehan&theme=monokai&no-frame=true&no-bg=true&column=3&margin-w=8&margin-h=8&title=Commit,Stars,Followers,Issues,PullRequest,Repositories&cache_bust=1" alt="Trophies" width="100%" />
     </td>
   </tr>
 </table>
