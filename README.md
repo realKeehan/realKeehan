@@ -25,11 +25,19 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=realKeehan&theme=dark&background=111111&ring=a800ff&fire=ef00fe&currStreakLabel=b583fc&hide_border=true" height="180" />
-</p>  
+</p>
 
+<!-- Activity graph -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=realKeehan&theme=radical&no-frame=true&column=6&title=Commit,Stars,Followers,Issues,PullRequest,Repositories" />
-</p>  
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=realKeehan&bg_color=111111&color=b583fc&line=a800ff&point=ef00fe&area=true&hide_border=true" alt="Contribution graph" />
+  </a>
+</p>
+
+<!-- Recent activity (auto-updates via GitHub Action) -->
+## ⚡ Recent GitHub Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
