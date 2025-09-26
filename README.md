@@ -27,6 +27,7 @@
   <img src="https://streak-stats.demolab.com/?user=realKeehan&theme=dark&background=111111&ring=a800ff&fire=ef00fe&currStreakLabel=b583fc&hide_border=true" height="180" />
 </p>
 
+<!-- Trophies (Monokai theme, no bg/frame) -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=realKeehan&theme=monokai&no-frame=true&no-bg=true&column=6&margin-w=8&margin-h=8&title=Commit,Stars,Followers,Issues,PullRequest,Repositories" />
 </p>
@@ -38,8 +39,8 @@
   </a>
 </p>
 
-<!-- Contribution snake -->
-![snake gif](https://raw.githubusercontent.com/realKeehan/realKeehan/output/github-contribution-grid-snake.svg)
+<!-- Contribution snake (from output branch; cache-busted) -->
+![snake gif](https://raw.githubusercontent.com/realKeehan/realKeehan/output/github-contribution-grid-snake.svg?cachebust=1)
 
 ---
 
@@ -49,12 +50,24 @@
 
 ---
 
-## 🎧 Music — Now Playing (Spotify)
+## 🎧 Live Music
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=isolo_17-&cover_image=false&theme=default&show_offline=true&background_color=111111&interchange=true&bar_color=a800ff&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=isolo_17-&redirect=true)
-
-<!-- Last.fm widget -->
-[![Last.fm](https://lastfm-recently-played.vercel.app/api?user=realKeehan&count=5&bg_color=111111&title_color=a800ff&main_color=ef00fe)](https://www.last.fm/user/realKeehan)
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <!-- Spotify Now Playing -->
+      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=isolo_17-&redirect=true">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=isolo_17-&cover_image=false&theme=default&show_offline=true&background_color=111111&interchange=true&bar_color=a800ff&bar_color_cover=false" alt="Spotify Now Playing" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <!-- Last.fm widget -->
+      <a href="https://www.last.fm/user/realKeehan">
+        <img src="https://lastfm-recently-played.vercel.app/api?user=realKeehan&count=5&bg_color=111111&title_color=a800ff&main_color=ef00fe" alt="Last.fm Recently Played" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -126,11 +139,13 @@
 
 ---
 
-## 🛠️ Tech Stack  
+## 🧰 Tech Stack  
 
 ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=ef00fe)
 ![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=a800ff)
-![PowerShell](https://img.shields.io/badge/PowerShell-111111?style=for-the-badge&logo=powershell&logoColor=b583fc)
+![PowerShell](https://img.shields.io/badge/PowerShell-111111?style=for-the-badge&logo=powershell&logoColor=white)
+![Go](https://img.shields.io/badge/Go-111111?style=for-the-badge&logo=go&logoColor=00ADD8)
+![Wails](https://img.shields.io/badge/Wails-111111?style=for-the-badge&logo=go&logoColor=a800ff)
 
 ---
 
