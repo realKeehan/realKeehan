@@ -27,7 +27,6 @@
   <img src="https://streak-stats.demolab.com/?user=realKeehan&theme=dark&background=111111&ring=a800ff&fire=ef00fe&currStreakLabel=b583fc&hide_border=true" height="180" />
 </p>
 
-<!-- Trophies (Monokai theme, no bg/frame) -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=realKeehan&theme=monokai&no-frame=true&no-bg=true&column=6&margin-w=8&margin-h=8&title=Commit,Stars,Followers,Issues,PullRequest,Repositories" />
 </p>
@@ -39,7 +38,7 @@
   </a>
 </p>
 
-<!-- Contribution snake (from output branch) -->
+<!-- Contribution snake -->
 ![snake gif](https://raw.githubusercontent.com/realKeehan/realKeehan/output/github-contribution-grid-snake.svg)
 
 ---
@@ -71,10 +70,9 @@
 
 ## 📌 Pinned Gists / Projects  
 
-<!-- Replace <REPO1>, <REPO2> with real repo names (case-sensitive) -->
 <p align="left">
-  <a href="https://github.com/realKeehan/PolyForge"><img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=realKeehan&repo=<REPO1>&hide_border=true&bg_color=111111&title_color=a800ff&text_color=b583fc&icon_color=ef00fe" alt="<REPO1>"></a>
-  <a href="https://github.com/realKeehan/realKeehan"><img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=realKeehan&repo=<REPO2>&hide_border=true&bg_color=111111&title_color=a800ff&text_color=b583fc&icon_color=ef00fe" alt="<REPO2>"></a>
+  <a href="https://github.com/realKeehan/PolyForge"><img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=realKeehan&repo=PolyForge&hide_border=true&bg_color=111111&title_color=a800ff&text_color=b583fc&icon_color=ef00fe" alt="PolyForge"></a>
+  <a href="https://github.com/realKeehan/realKeehan"><img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=realKeehan&repo=realKeehan&hide_border=true&bg_color=111111&title_color=a800ff&text_color=b583fc&icon_color=ef00fe" alt="realKeehan"></a>
 </p>
 
 <p align="left">
