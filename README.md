@@ -58,9 +58,9 @@
 
 ## ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com//realKeehan/SlimeTools/pull/1) in [realKeehan/SlimeTools](https://github.com//realKeehan/SlimeTools)
-2. 💪 Opened PR [#1](https://github.com//realKeehan/SlimeTools/pull/1) in [realKeehan/SlimeTools](https://github.com//realKeehan/SlimeTools)
-3. ❌ Closed PR [#7](https://github.com//realKeehan/Weedcraft/pull/7) in [realKeehan/Weedcraft](https://github.com//realKeehan/Weedcraft)
+1. 🎉 Merged PR [#2](https://github.com//realKeehan/SlimeTools/pull/2) in [realKeehan/SlimeTools](https://github.com//realKeehan/SlimeTools)
+2. 💪 Opened PR [#2](https://github.com//realKeehan/SlimeTools/pull/2) in [realKeehan/SlimeTools](https://github.com//realKeehan/SlimeTools)
+3. 🎉 Merged PR [#8](https://github.com//realKeehan/PolyForge/pull/8) in [realKeehan/PolyForge](https://github.com//realKeehan/PolyForge)
 <!--END_SECTION:activity-->
 
 ---
