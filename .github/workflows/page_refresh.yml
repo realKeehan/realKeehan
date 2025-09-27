@@ -1,40 +1,44 @@
 name: 🎛️ Manual Workflow Runner
 
-# This workflow can be manually triggered from the Actions tab in GitHub UI.
 on:
   workflow_dispatch:
-    # Optional: You can add inputs here if you want to pass specific settings
-    # when you manually trigger this runner. For now, it's left blank.
+
+permissions:
+  actions: write
+  contents: read
 
 jobs:
-  # This single job will run all three dispatch steps sequentially.
   trigger_child_workflows:
     runs-on: ubuntu-latest
+    env:
+      TARGET_REF: main   # <-- change if your default branch isn't 'main'
     steps:
-      - name: Checkout Repository (Needed for actions to run)
-        uses: actions/checkout@v4
-        
-      # --- 1. Trigger metrics.yml ---
+      # --- 1) Trigger metrics.yml ---
       - name: Dispatch metrics.yml
         uses: peter-evans/workflow-dispatch@v3
+        continue-on-error: true
         with:
-          # The name of the workflow file to dispatch
+          token: ${{ secrets.GITHUB_TOKEN }}
+          repository: ${{ github.repository }}
           workflow: metrics.yml
-          # IMPORTANT: Use a GitHub Token with 'workflow' scope. 
-          # The default GITHUB_TOKEN might not work if metrics.yml modifies the repo. 
-          # See the note below the file for best practices on this token.
-          token: ${{ secrets.GITHUB_TOKEN }} 
-          
-      # --- 2. Trigger recent-activity.yml ---
+          ref: ${{ env.TARGET_REF }}
+
+      # --- 2) Trigger recent-activity.yml ---
       - name: Dispatch recent-activity.yml
         uses: peter-evans/workflow-dispatch@v3
+        continue-on-error: true
         with:
-          workflow: recent-activity.yml
           token: ${{ secrets.GITHUB_TOKEN }}
+          repository: ${{ github.repository }}
+          workflow: recent-activity.yml
+          ref: ${{ env.TARGET_REF }}
 
-      # --- 3. Trigger snake.yml ---
+      # --- 3) Trigger snake.yml ---
       - name: Dispatch snake.yml
         uses: peter-evans/workflow-dispatch@v3
+        continue-on-error: true
         with:
-          workflow: snake.yml
           token: ${{ secrets.GITHUB_TOKEN }}
+          repository: ${{ github.repository }}
+          workflow: snake.yml
+          ref: ${{ env.TARGET_REF }}
