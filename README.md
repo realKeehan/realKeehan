@@ -73,6 +73,12 @@
 ![Go](https://img.shields.io/badge/Go-111111?style=for-the-badge&logo=go&logoColor=00ADD8)
 ![Wails](https://img.shields.io/badge/Wails-111111?style=for-the-badge&logo=go&logoColor=a800ff)
 
+![Pug](https://img.shields.io/badge/Pug-111111?style=for-the-badge&logo=pug&logoColor=ef00fe)
+![SCSS](https://img.shields.io/badge/SCSS-111111?style=for-the-badge&logo=sass&logoColor=a800ff)
+![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=java&logoColor=f89820)
+![mcfunction](https://img.shields.io/badge/mcfunction-111111?style=for-the-badge&logo=minecraft&logoColor=62b47a)
+
+
 ---
 
 ## 🌐 Connect with Me  
