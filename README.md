@@ -58,9 +58,9 @@
 
 ## ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com//realKeehan/PolyForge/pull/16) in [realKeehan/PolyForge](https://github.com//realKeehan/PolyForge)
-2. 💪 Opened PR [#16](https://github.com//realKeehan/PolyForge/pull/16) in [realKeehan/PolyForge](https://github.com//realKeehan/PolyForge)
-3. 🎉 Merged PR [#15](https://github.com//realKeehan/PolyForge/pull/15) in [realKeehan/PolyForge](https://github.com//realKeehan/PolyForge)
+1. 🎉 Merged PR [#17](https://github.com//realKeehan/PolyForge/pull/17) in [realKeehan/PolyForge](https://github.com//realKeehan/PolyForge)
+2. 💪 Opened PR [#17](https://github.com//realKeehan/PolyForge/pull/17) in [realKeehan/PolyForge](https://github.com//realKeehan/PolyForge)
+3. 🎉 Merged PR [#16](https://github.com//realKeehan/PolyForge/pull/16) in [realKeehan/PolyForge](https://github.com//realKeehan/PolyForge)
 <!--END_SECTION:activity-->
 
 ---
