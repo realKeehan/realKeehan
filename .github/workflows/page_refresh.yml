@@ -13,32 +13,35 @@ jobs:
     env:
       TARGET_REF: main   # <-- change if your default branch isn't 'main'
     steps:
-      # --- 1) Trigger metrics.yml ---
-      - name: Dispatch metrics.yml
-        uses: peter-evans/workflow-dispatch@v3
-        continue-on-error: true
+      - name: Trigger metrics.yml
+        uses: actions/github-script@v7
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          repository: ${{ github.repository }}
-          workflow: metrics.yml
-          ref: ${{ env.TARGET_REF }}
+          script: |
+            await github.rest.actions.createWorkflowDispatch({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              workflow_id: 'metrics.yml',
+              ref: process.env.TARGET_REF
+            })
 
-      # --- 2) Trigger recent-activity.yml ---
-      - name: Dispatch recent-activity.yml
-        uses: peter-evans/workflow-dispatch@v3
-        continue-on-error: true
+      - name: Trigger recent-activity.yml
+        uses: actions/github-script@v7
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          repository: ${{ github.repository }}
-          workflow: recent-activity.yml
-          ref: ${{ env.TARGET_REF }}
+          script: |
+            await github.rest.actions.createWorkflowDispatch({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              workflow_id: 'recent-activity.yml',
+              ref: process.env.TARGET_REF
+            })
 
-      # --- 3) Trigger snake.yml ---
-      - name: Dispatch snake.yml
-        uses: peter-evans/workflow-dispatch@v3
-        continue-on-error: true
+      - name: Trigger snake.yml
+        uses: actions/github-script@v7
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          repository: ${{ github.repository }}
-          workflow: snake.yml
-          ref: ${{ env.TARGET_REF }}
+          script: |
+            await github.rest.actions.createWorkflowDispatch({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              workflow_id: 'snake.yml',
+              ref: process.env.TARGET_REF
+            })
