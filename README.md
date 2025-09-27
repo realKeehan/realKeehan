@@ -59,8 +59,8 @@
 ## ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#4605](https://github.com//wailsapp/wails/issues/4605) in [wailsapp/wails](https://github.com//wailsapp/wails)
-2. ❗️ Opened issue [#4605](https://github.com//wailsapp/wails/issues/4605) in [wailsapp/wails](https://github.com//wailsapp/wails)
-3. 🎉 Merged PR [#17](https://github.com//realKeehan/PolyForge/pull/17) in [realKeehan/PolyForge](https://github.com//realKeehan/PolyForge)
+2. 🎉 Merged PR [#18](https://github.com//realKeehan/PolyForge/pull/18) in [realKeehan/PolyForge](https://github.com//realKeehan/PolyForge)
+3. 💪 Opened PR [#18](https://github.com//realKeehan/PolyForge/pull/18) in [realKeehan/PolyForge](https://github.com//realKeehan/PolyForge)
 <!--END_SECTION:activity-->
 
 ---
