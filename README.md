@@ -58,7 +58,7 @@
 
 ## ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4605](https://github.com//wailsapp/wails/issues/4605) in [wailsapp/wails](https://github.com//wailsapp/wails)
+1. 💪 Opened PR [#19](https://github.com//realKeehan/PolyForge/pull/19) in [realKeehan/PolyForge](https://github.com//realKeehan/PolyForge)
 2. 🗣 Commented on [#4605](https://github.com//wailsapp/wails/issues/4605) in [wailsapp/wails](https://github.com//wailsapp/wails)
 3. 🗣 Commented on [#4605](https://github.com//wailsapp/wails/issues/4605) in [wailsapp/wails](https://github.com//wailsapp/wails)
 <!--END_SECTION:activity-->
