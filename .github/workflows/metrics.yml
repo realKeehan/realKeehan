@@ -44,7 +44,7 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
-      # RIGHT COLUMN: achievements + followup + stars
+      # RIGHT COLUMN: achievements + followup + stars + commits + activity stats
       - name: Generate right column
         uses: lowlighter/metrics@v3.34
         with:
@@ -53,7 +53,7 @@ jobs:
           template: classic
           filename: metrics_right.svg
           config_timezone: Etc/UTC
-          base: ""
+          base: activity   # adds overall activity/commit stats at the top
 
           # Achievements (compact)
           plugin_achievements: yes
@@ -67,3 +67,8 @@ jobs:
           # Recently starred
           plugin_stars: yes
           plugin_stars_limit: 6
+
+          # Commit stats
+          plugin_commits: yes
+          plugin_commits_limit: 5
+          plugin_commits_sections: repositories, history
