@@ -58,9 +58,9 @@
 
 ## ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com//realKeehan/Weedcraft/pull/9) in [realKeehan/Weedcraft](https://github.com//realKeehan/Weedcraft)
-2. 💪 Opened PR [#9](https://github.com//realKeehan/Weedcraft/pull/9) in [realKeehan/Weedcraft](https://github.com//realKeehan/Weedcraft)
-3. 🎉 Merged PR [#25](https://github.com//realKeehan/PolyForge/pull/25) in [realKeehan/PolyForge](https://github.com//realKeehan/PolyForge)
+1. 💪 Opened PR [#10](https://github.com//realKeehan/Weedcraft/pull/10) in [realKeehan/Weedcraft](https://github.com//realKeehan/Weedcraft)
+2. 🎉 Merged PR [#9](https://github.com//realKeehan/Weedcraft/pull/9) in [realKeehan/Weedcraft](https://github.com//realKeehan/Weedcraft)
+3. 💪 Opened PR [#9](https://github.com//realKeehan/Weedcraft/pull/9) in [realKeehan/Weedcraft](https://github.com//realKeehan/Weedcraft)
 <!--END_SECTION:activity-->
 
 ---
