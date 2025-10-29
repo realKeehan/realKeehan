@@ -58,9 +58,9 @@
 
 ## ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#3](https://github.com//realKeehan/spotify-auto-mix/pull/3) in [realKeehan/spotify-auto-mix](https://github.com//realKeehan/spotify-auto-mix)
-2. 💪 Opened PR [#3](https://github.com//realKeehan/spotify-auto-mix/pull/3) in [realKeehan/spotify-auto-mix](https://github.com//realKeehan/spotify-auto-mix)
-3. ❌ Labeled PR [#2](https://github.com//realKeehan/spotify-auto-mix/pull/2) in [realKeehan/spotify-auto-mix](https://github.com//realKeehan/spotify-auto-mix)
+1. ❌ Labeled PR [#4](https://github.com//realKeehan/spotify-auto-mix/pull/4) in [realKeehan/spotify-auto-mix](https://github.com//realKeehan/spotify-auto-mix)
+2. 💪 Opened PR [#4](https://github.com//realKeehan/spotify-auto-mix/pull/4) in [realKeehan/spotify-auto-mix](https://github.com//realKeehan/spotify-auto-mix)
+3. ❌ Labeled PR [#3](https://github.com//realKeehan/spotify-auto-mix/pull/3) in [realKeehan/spotify-auto-mix](https://github.com//realKeehan/spotify-auto-mix)
 <!--END_SECTION:activity-->
 
 ---
