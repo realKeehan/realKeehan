@@ -58,9 +58,9 @@
 
 ## ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#27](https://github.com//realKeehan/PolyForge/pull/27) in [realKeehan/PolyForge](https://github.com//realKeehan/PolyForge)
-2. 💪 Opened PR [#27](https://github.com//realKeehan/PolyForge/pull/27) in [realKeehan/PolyForge](https://github.com//realKeehan/PolyForge)
-3. 💪 Opened PR [#26](https://github.com//realKeehan/PolyForge/pull/26) in [realKeehan/PolyForge](https://github.com//realKeehan/PolyForge)
+1. ❌ Labeled PR [#2](https://github.com//realKeehan/spotify-auto-mix/pull/2) in [realKeehan/spotify-auto-mix](https://github.com//realKeehan/spotify-auto-mix)
+2. 💪 Opened PR [#2](https://github.com//realKeehan/spotify-auto-mix/pull/2) in [realKeehan/spotify-auto-mix](https://github.com//realKeehan/spotify-auto-mix)
+3. ❌ Labeled PR [#1](https://github.com//realKeehan/spotify-auto-mix/pull/1) in [realKeehan/spotify-auto-mix](https://github.com//realKeehan/spotify-auto-mix)
 <!--END_SECTION:activity-->
 
 ---
