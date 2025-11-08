@@ -58,9 +58,9 @@
 
 ## ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#27](https://github.com//realKeehan/PolyForge/pull/27) in [realKeehan/PolyForge](https://github.com//realKeehan/PolyForge)
-2. 💪 Opened PR [#27](https://github.com//realKeehan/PolyForge/pull/27) in [realKeehan/PolyForge](https://github.com//realKeehan/PolyForge)
-3. 💪 Opened PR [#26](https://github.com//realKeehan/PolyForge/pull/26) in [realKeehan/PolyForge](https://github.com//realKeehan/PolyForge)
+1. 💪 Opened PR [#11](https://github.com//MrNachoX/tricount-downloader/pull/11) in [MrNachoX/tricount-downloader](https://github.com//MrNachoX/tricount-downloader)
+2. ❌ Labeled PR [#27](https://github.com//realKeehan/PolyForge/pull/27) in [realKeehan/PolyForge](https://github.com//realKeehan/PolyForge)
+3. 💪 Opened PR [#27](https://github.com//realKeehan/PolyForge/pull/27) in [realKeehan/PolyForge](https://github.com//realKeehan/PolyForge)
 <!--END_SECTION:activity-->
 
 ---
