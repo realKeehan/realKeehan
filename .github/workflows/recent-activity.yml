@@ -17,7 +17,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Update activity section
-        uses: jamesgeorge007/github-activity-readme@v0.4.6
+        uses: jamesgeorge007/github-activity-readme@v0.3.0
         with:
           GH_USERNAME: realKeehan
           COMMIT_MSG: "chore: update recent GitHub activity"
