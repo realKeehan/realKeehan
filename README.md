@@ -58,9 +58,9 @@
 
 ## ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](https://github.com//MrNachoX/tricount-downloader/pull/11) in [MrNachoX/tricount-downloader](https://github.com//MrNachoX/tricount-downloader)
-2. ❌ Labeled PR [#27](https://github.com//realKeehan/PolyForge/pull/27) in [realKeehan/PolyForge](https://github.com//realKeehan/PolyForge)
-3. 💪 Opened PR [#27](https://github.com//realKeehan/PolyForge/pull/27) in [realKeehan/PolyForge](https://github.com//realKeehan/PolyForge)
+1. ℹ️ Assigned issue [#124](https://github.com/alexcrea/CustomAnvil/issues/124) in [alexcrea/CustomAnvil](https://github.com/alexcrea/CustomAnvil)
+2. ℹ️ Labeled issue [#124](https://github.com/alexcrea/CustomAnvil/issues/124) in [alexcrea/CustomAnvil](https://github.com/alexcrea/CustomAnvil)
+3. ❗ Opened issue [#124](https://github.com/alexcrea/CustomAnvil/issues/124) in [alexcrea/CustomAnvil](https://github.com/alexcrea/CustomAnvil)
 <!--END_SECTION:activity-->
 
 ---
