@@ -47,7 +47,7 @@
 <td align="center" width="50%">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img
-      src="https://github-profile-trophy-liard-delta.vercel.app/?username=realKeehan&theme=monokai&no-frame=true&no-bg=true&column=3&margin-w=8&margin-h=8"
+      src="https://github-trophies.vercel.app/?username=realKeehan&theme=monokai&no-frame=true&no-bg=true&column=3&margin-w=8&margin-h=8"
       alt="GitHub Trophies"
       width="100%"
     />
