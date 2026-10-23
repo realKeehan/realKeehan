@@ -102,14 +102,29 @@
 
 ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=ef00fe)
 ![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=a800ff)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=f7df1e)
 ![PowerShell](https://img.shields.io/badge/PowerShell-111111?style=for-the-badge&logo=powershell&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-111111?style=for-the-badge&logo=go&logoColor=00ADD8)
 ![Wails](https://img.shields.io/badge/Wails-111111?style=for-the-badge&logo=go&logoColor=a800ff)
+![C#](https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=csharp&logoColor=a800ff)
+![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=f89820)
+![PHP](https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php&logoColor=777bb4)
 
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs&logoColor=5fa04e)
+![Express](https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express&logoColor=b583fc)
+![Discord.js](https://img.shields.io/badge/discord.js-111111?style=for-the-badge&logo=discord&logoColor=5865f2)
+![Vue](https://img.shields.io/badge/Vue-111111?style=for-the-badge&logo=vuedotjs&logoColor=42b883)
 ![Pug](https://img.shields.io/badge/Pug-111111?style=for-the-badge&logo=pug&logoColor=ef00fe)
 ![SCSS](https://img.shields.io/badge/SCSS-111111?style=for-the-badge&logo=sass&logoColor=a800ff)
-![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=java&logoColor=f89820)
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=e34f26)
+
+![Minecraft](https://img.shields.io/badge/Minecraft-111111?style=for-the-badge&logo=minecraft&logoColor=62b47a)
 ![mcfunction](https://img.shields.io/badge/mcfunction-111111?style=for-the-badge&logo=minecraft&logoColor=62b47a)
+![Purpur / Paper](https://img.shields.io/badge/Purpur%20%2F%20Paper-111111?style=for-the-badge&logo=papermc&logoColor=ef00fe)
+![YOLO / Computer Vision](https://img.shields.io/badge/YOLO%20%2F%20CV-111111?style=for-the-badge&logo=opencv&logoColor=a800ff)
+![LaTeX](https://img.shields.io/badge/LaTeX-111111?style=for-the-badge&logo=latex&logoColor=b583fc)
+![cPanel](https://img.shields.io/badge/cPanel-111111?style=for-the-badge&logo=cpanel&logoColor=ff6c2c)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-111111?style=for-the-badge&logo=githubactions&logoColor=2088ff)
 
 ---
 
@@ -136,7 +151,7 @@
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=realKeehan&style=for-the-badge&color=a800ff"
+    src="https://hits.sh/github.com/realKeehan/realKeehan.svg?style=for-the-badge&label=Visitors&color=a800ff&labelColor=111111"
     alt="Profile Visitors"
   />
 </p>
@@ -275,9 +290,9 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <a href="https://github.com/realKeehan">
     <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=realKeehan&bg_color=111111&color=b583fc&line=a800ff&point=ef00fe&area=true&hide_border=true"
+      src="https://ghchart.rshah.org/a800ff/realKeehan"
       alt="Contribution Graph"
       width="95%"
     />
