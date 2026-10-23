@@ -151,9 +151,18 @@
 
 <p align="center">
   <img
-    src="https://hits.sh/github.com/realKeehan/realKeehan.svg?style=for-the-badge&label=Visitors&color=a800ff&labelColor=111111"
+    src="https://komarev.com/ghpvc/?username=realKeehan&style=for-the-badge&color=a800ff"
     alt="Profile Visitors"
   />
+</p>
+
+<p align="center">
+  <a href="https://star-history.dera.page/realKeehan/PolyForge">
+    <img
+      src="https://img.shields.io/badge/Star%20History-PolyForge-111111?style=for-the-badge&logo=github&logoColor=b583fc"
+      alt="Star History"
+    />
+  </a>
 </p>
 
 ---
@@ -290,9 +299,9 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/realKeehan">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img
-      src="https://ghchart.rshah.org/a800ff/realKeehan"
+      src="https://activity-graph.vercel.app/graph?username=realKeehan&bg_color=111111&color=b583fc&line=a800ff&point=ef00fe&area=true&hide_border=true"
       alt="Contribution Graph"
       width="95%"
     />
