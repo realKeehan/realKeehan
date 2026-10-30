@@ -91,9 +91,9 @@
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/realKeehan/sealform/pull/4) in [realKeehan/sealform](https://github.com/realKeehan/sealform)
-2. 💪 Opened PR [#4](https://github.com/realKeehan/sealform/pull/4) in [realKeehan/sealform](https://github.com/realKeehan/sealform)
-3. 🎉 Merged PR [#3](https://github.com/realKeehan/sealform/pull/3) in [realKeehan/sealform](https://github.com/realKeehan/sealform)
+1. 💪 Opened PR [#6](https://github.com/realKeehan/sealform/pull/6) in [realKeehan/sealform](https://github.com/realKeehan/sealform)
+2. 💪 Opened PR [#5](https://github.com/realKeehan/sealform/pull/5) in [realKeehan/sealform](https://github.com/realKeehan/sealform)
+3. 🚀 Published release [sealform v0.1.0](https://github.com/realKeehan/sealform/releases/tag/v0.1.0) in [realKeehan/sealform](https://github.com/realKeehan/sealform)
 <!--END_SECTION:activity-->
 
 ---
