@@ -91,9 +91,9 @@
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/realKeehan/sealform/pull/8) in [realKeehan/sealform](https://github.com/realKeehan/sealform)
-2. 💪 Opened PR [#7](https://github.com/realKeehan/sealform/pull/7) in [realKeehan/sealform](https://github.com/realKeehan/sealform)
-3. 💪 Opened PR [#6](https://github.com/realKeehan/sealform/pull/6) in [realKeehan/sealform](https://github.com/realKeehan/sealform)
+1. 🗣 Commented on [#5](https://github.com/realKeehan/sealform/pull/5#issuecomment-6650525354) in [realKeehan/sealform](https://github.com/realKeehan/sealform)
+2. 🗣 Commented on [#8](https://github.com/realKeehan/sealform/pull/8#issuecomment-6650527439) in [realKeehan/sealform](https://github.com/realKeehan/sealform)
+3. 🗣 Commented on [#7](https://github.com/realKeehan/sealform/pull/7#issuecomment-6650526888) in [realKeehan/sealform](https://github.com/realKeehan/sealform)
 <!--END_SECTION:activity-->
 
 ---
